@@ -21,10 +21,10 @@ Bu proje, Titanic veri seti üzerinde bir dizi veri analizi ve görselleştirme 
                                <li>Hayatta kalma ve diğer özellikler arasındaki korelasyonları gösteren ısı haritası oluşturuldu</li></ol>
 </ul>
 <h2>Kullanılan Teknolojiler ve Kütüphaneler</h2>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="50"title="python">
-<img src="https://avatars.githubusercontent.com/u/215947?s=200&v=4" width="50"title="matplotlib">
-<img src="https://avatars.githubusercontent.com/u/21206976?s=200&v=4" width="50"title="pandas">
-<img src="https://avatars.githubusercontent.com/u/288276?s=200&v=4" width="50"title="numpy">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="50"title="python" align="left">
+<img src="https://avatars.githubusercontent.com/u/215947?s=200&v=4" width="50"title="matplotlib"align="left">
+<img src="https://avatars.githubusercontent.com/u/21206976?s=200&v=4" width="50"title="pandas"align="left">
+<img src="https://avatars.githubusercontent.com/u/288276?s=200&v=4" width="50"title="numpy"align="left">
 <img src="https://avatars.githubusercontent.com/u/22799945?s=200&v=4" width="50"title="seaborn">
 <h3>Projede aşağıdaki Python kütüphaneleri kullanılmıştır:</h3>
 <ul><li>
